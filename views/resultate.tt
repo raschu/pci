@@ -1,0 +1,11 @@
+<div id="page">
+	<% INCLUDE menu.tt %>
+        <div id="inhalt">
+          <h1>Leertitel</h1>
+              <p>
+
+				
+              </p>
+        </div>
+      </div>
+    </div>

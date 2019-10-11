@@ -1,0 +1,219 @@
+
+body {
+margin: 0;
+margin-bottom: 25px;
+padding: 0;
+background-color: #000000;
+/*background-color: #6B352A;*/
+background-image: url("/images/pci-bg.png");
+background-repeat: no-repeat;
+background-position: top left;
+
+font-family: "Book Antiqua", "Palatino Linotype", "Palatino";
+font-size: 15px;
+color: #333;
+}
+
+hr.pci {
+  color: #b22222;
+}
+
+h1 {
+font-size: 28px;
+color: #000;
+}
+
+a  {color: #b22222}
+a:hover {
+background-color: #b22222;
+color: white;
+text-decoration: none;
+}
+
+#page {
+/*background-color: #6B352A;	*/
+background-color: #000000;
+width: 750px;
+margin: auto;
+margin-left: auto;
+padding-left: 0px;
+margin-right: auto;
+}
+
+#content {
+background-color: white;
+border: 6px solid #b22222;
+border-top: none;
+padding:25px;
+width: 500px;
+}
+
+#sidebar {
+float: right;
+width: 175px;
+}
+
+#header, #about, #inhalt {
+padding-left: 25px;
+padding-right: 5px;
+}
+
+
+#header {
+background-image: url("/images/pci-250.png");
+background-repeat: no-repeat;
+background-position: top right;
+height: 225px;
+}
+#header h1, #header h2 {margin: 0}
+#header h2 {
+color: #888;
+font-weight: normal;
+font-size: 16px;
+}
+
+#about h3 {
+margin: 0;
+margin-bottom: 10px;
+font-size: 14px;
+}
+
+#about-content {
+background-color: #ffd;
+border: 1px solid #fc0;
+margin-left: -11px;
+}
+#about-content table {
+margin-top: 10px;
+margin-bottom: 10px;
+font-size: 11px;
+border-collapse: collapse;
+}
+#about-content td {
+padding: 10px;
+padding-top: 3px;
+padding-bottom: 3px;
+}
+#about-content td.name  {color: #555}
+#about-content td.value {color: #000}
+
+#about-content.failure {
+background-color: #fcc;
+border: 1px solid #f00;
+}
+#about-content.failure p {
+margin: 0;
+padding: 10px;
+}
+
+#inhalt {
+border-top: 1px solid #ccc;
+margin-top: 25px;
+padding-top: 15px;
+}
+#inhalt h1 {
+margin: 0;
+font-size: 20px;
+}
+img {
+margin-bottom: 13px;
+}
+#inhalt h2 {
+margin: 0;
+font-size: 14px;
+font-weight: normal;
+color: #000000;
+margin-top: 5px;
+}
+#inhalt ol {
+margin-left: 0;
+padding-left: 0;
+}
+#inhalt li {
+font-size: 15px;
+color: #444;
+margin-bottom: 0px;
+}
+#inhalt li h2 {
+margin: 0;
+font-weight: normal;
+font-size: 15px;
+color: #333;
+}
+#inhalt li p {
+color: #555;
+font-size: 15px;
+}
+
+#search {
+margin: 0;
+padding-top: 10px;
+padding-bottom: 10px;
+font-size: 11px;
+}
+#search input {
+font-size: 11px;
+margin: 2px;
+}
+#search-text {width: 170px}
+
+#sidebar ul {
+margin-left: 0;
+padding-left: 0;
+}
+#sidebar ul h3 {
+color: #b22222;
+margin-top: 25px;
+font-size: 16px;
+padding-bottom: 10px;
+border-bottom: 1px solid #b22222;
+}
+#sidebar li {
+list-style-type: none;
+}
+#sidebar ul.links li {
+margin-bottom: 5px;
+}
+
+h1, h2, h3, h4, h5 {
+font-family: "Book Antiqua", "Palatino Linotype", "Palatino";
+margin: 1.2em 0 0.6em 0;
+}
+
+p {
+line-height: 1.5em;
+margin: 1.6em 0;
+}
+
+code, tt {
+    font-family: 'Andale Mono', Monaco, 'Liberation Mono', 'Bitstream Vera Sans Mono', 'DejaVu Sans Mono', monospace;
+}
+
+#footer {
+clear: both;
+padding-top: 2em;
+text-align: center;
+padding-right: 160px;
+font-family: sans-serif;
+font-size: 10px;
+}
+
+.imagecaptioneasy {
+
+  padding: 5px;
+
+  font-family: arial,helvetica,sans-serif;
+
+  font-size: 10px;
+
+  line-height: 1.15em;
+
+  text-align: center;
+
+  border: 1px solid #D2BE97;
+
+  background: #ffffff;
+
+  color: #333;
+
+}

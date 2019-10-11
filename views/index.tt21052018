@@ -1,0 +1,117 @@
+<div id="page">
+	<% INCLUDE menu.tt %>
+        <div id="inhalt">
+          <h1>Herzlich Willkommen!</h1>
+              <p>
+				Der Pfeifenclub Innerschwyz begrüsst Sie auf seiner Homepage und wünscht Ihnen viel Spass und "Guet Rauch"!
+				
+              </p>
+			  
+			  
+	          <h1><font size="2" color="#afafaf">21.05.2018</font><br>Rangliste und Bericht zur 1. Innerschwyzer Pfeifenraucher Meisterschaft</h1>
+	              <p>
+					Der Sieger der 1. Innerschwyzer Pfeifenraucher Meisterschaft heisst Bruno Kuster. Herzliche Gratulation. Hier die komplette <a href="/pdf/rangliste_1_innerschwyzer_meisterschaft.pdf">Rangliste</a> und der sehr gelungene <a href="http://www.bote.ch/nachrichten/schwyz/schwyz_bdu/pfeifenraucher-trafen-sich-zur-meisterschaft;art146989,1096547">Bericht von Geri Holdener (Bote der Urschweiz)</a>.
+					
+					
+					   <br><br>
+
+					 <div class="slideshow-container">
+					  <div class="mySlides fade">
+					    <div class="numbertext">1 / 4</div>
+					    <a href=/pci_1st_innerschwyzer_meisterschaft/index.html><img src="/images/pci_1st_innerschwyzer_meisterschaft/001.jpg" style="width:100%"></a>
+					    <div class="text">Selgis Restaurant von aussen</div>
+					  </div>
+
+					  <div class="mySlides fade">
+					    <div class="numbertext">2 / 4</div>
+					    <a href=/pci_1st_innerschwyzer_meisterschaft/index.html><img src="/images/pci_1st_innerschwyzer_meisterschaft/002.jpg" style="width:100%"></a>
+					    <div class="text">Richi Bagenstos (Vize-Präsident des PCI) und das Siegertrio (v.l.n.r.): <br>Peter Rohr (3. Rang), Bruno Kuster (1. Rang), Rolf Maag (2. Rang)</div>
+					  </div>
+
+					  <div class="mySlides fade">
+					    <div class="numbertext">3 / 4</div>
+					    <a href=/pci_1st_innerschwyzer_meisterschaft/index.html><img src="/images/pci_1st_innerschwyzer_meisterschaft/003.jpg" style="width:100%"></a>
+					    <div class="text">Der Gabentempel</div>
+					  </div>
+				  
+					  <div class="mySlides fade">
+					    <div class="numbertext">4 / 4</div>
+					    <a href=/pci_1st_innerschwyzer_meisterschaft/index.html><img src="/images/pci_1st_innerschwyzer_meisterschaft/004.jpg" style="width:100%"></a>
+					    <div class="text">Die Wettkampfjury des PCI (Ralph Schuler und Edgar auf der Maur, Präsident PCI)</div>
+					  </div>
+				  
+
+					  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+					  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+					</div>
+					<br>
+
+					<div style="text-align:center">
+					  <span class="dot" onclick="currentSlide(1)"></span>
+					  <span class="dot" onclick="currentSlide(2)"></span>
+					  <span class="dot" onclick="currentSlide(3)"></span>
+					  <span class="dot" onclick="currentSlide(4)"></span>
+					</div>
+				   
+				   
+				   
+					   <script>
+					   var slideIndex = 1;
+					   showSlides(slideIndex);
+
+					   function plusSlides(n) {
+					     showSlides(slideIndex += n);
+					   }
+
+					   function currentSlide(n) {
+					     showSlides(slideIndex = n);
+					   }
+
+					   function showSlides(n) {
+					     var i;
+					     var slides = document.getElementsByClassName("mySlides");
+					     var dots = document.getElementsByClassName("dot");
+					     if (n > slides.length) {slideIndex = 1}    
+					     if (n < 1) {slideIndex = slides.length}
+					     for (i = 0; i < slides.length; i++) {
+					         slides[i].style.display = "none";  
+					     }
+					     for (i = 0; i < dots.length; i++) {
+					         dots[i].className = dots[i].className.replace(" active", "");
+					     }
+					     slides[slideIndex-1].style.display = "block";  
+					     dots[slideIndex-1].className += " active";
+					   }
+					   </script>
+					
+					
+					
+					
+					
+					
+				
+	              </p>
+			  
+			  
+			  
+	          <h1><font size="2" color="#afafaf">03.03.2018</font><br>1. Innerschwyzer Pfeifenraucher Meisterschaft am 20. Mai 2018</h1>
+	              <p>
+					Am Pfingstsonntag findet im Selgis (Ried / Muotathal) die 1. Innerschwyzer Pfeifenraucher Meisterschaft im Langsamrauchen statt. Mehr Informationen in unserem <a href="/pdf/Wettrauchen_2018.pdf">Festführer</a>. <b>"A Pfingschtä rüüchts am ringschtä!</b>"
+				
+	              </p>
+			  
+			  
+	          <h1><font size="2" color="#afafaf">28.02.2018</font><br>Der PCI grüsst den PK Adler</h1>
+	              <p>
+					Mit grosser Freude haben wir aus dem <a href="http://www.bote.ch/nachrichten/schwyz/schwyz_bdu/so-gemuetlich-war-es-an-der-pfeifenklub-gv;art146989,1078050">Boten der Urschweiz</a> entnommen, dass sich im Muotathal ein neuer Pfeifenclub gegründet hat. Wir wünschen viel Spass mit Eurem Club und senden Euch rauchige Grüsse ins "Thal". - PC Innerschwyz
+				
+	              </p>
+			  
+			  
+			  
+			  
+			  
+			  
+      </div>
+    </div>
+	

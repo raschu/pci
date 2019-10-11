@@ -1,0 +1,13 @@
+<div id="page">
+	<% INCLUDE menu.tt %>
+        <div id="inhalt">
+          <h1>Clubraum</h1>
+
+		<h2>Unser Clubraum "Nifelhall" (Halle des Nebels)</h2>
+		<p><img src="/images/dscn2056.JPG" alt="dscn2056.JPG" /><img src="/images/dscn2058.JPG" alt="dscn2058.JPG" /><img src="/images/dscn2059.JPG" alt="dscn2059.JPG" /><img src="/images/dscn2060.JPG" alt="dscn2060.JPG" /></p>
+
+
+
+        </div>
+      </div>
+    </div>

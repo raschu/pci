@@ -1,0 +1,24 @@
+<div id="page">
+	<% INCLUDE menu.tt %>
+        <div id="inhalt">
+          <h1>Clubwettrauchen</h1>
+              <p><div class="imagecaptioneasy imagecaptioneasy_top_nowrap" style="width:336px;"><img src="/images/dscn2015.JPG" alt="Pokal des Clubwettrauchen 2008" /><br style="clear:both" /><span>Pokal des Clubwettrauchen 2008</span></div>
+		    <br><br>
+			<strong>Sieger der clubinternen Wettrauchen:</strong></p>
+			<ul>
+				<li>2018: Richi Baggenstos</li>
+				<li>2017: Richi Baggenstos</li>
+				<li>2016: Ruedi Durrer</li>
+            	<li>2015: Richi Baggenstos</li>
+            	<li>2014: Edgar Auf der Maur</li>
+            	<li>2013: Dölf Suter</li>
+				<li>2012: Remo Auf der Maur</li>
+				<li>2011: Edgar Auf der Maur</li>
+				<li>2010: Chrigel Fleischli</li>
+				<li>2009: Richi Baggenstos</li>
+				<li>2008: Richi Baggenstos</li>
+				<li>2007: Edgar Auf der Maur</li>
+			</ul>
+        </div>
+      </div>
+    </div>

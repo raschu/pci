@@ -1,0 +1,52 @@
+>> Dancer 1.3202 server 19278 listening on http://0.0.0.0:15700
+>> Dancer::Plugin::DirectoryView (0.02)
+== Entering the prod dance floor ...
+>> Dancer 1.3202 server 19282 listening on http://0.0.0.0:15701
+>> Dancer::Plugin::DirectoryView (0.02)
+== Entering the prod dance floor ...
+Error: no such column: socq
+Error: no such column: socq
+Error: no such column: socr
+Error: no such column: socr
+Error: no such column: stmq
+Error: no such column: stmq
+Error: no such column: stmr
+Error: no such column: stmr
+Argument "\n" isn't numeric in numeric gt (>) at /root/ralphweb/views/sc/profile.13.tt line 158.
+Argument "" isn't numeric in numeric gt (>) at /root/ralphweb/views/sc/profile.13.tt line 168.
+Error: no such column: schq
+Error: no such column: schq
+Error: no such column: schr
+Error: no such column: schr
+Error: no such column: socq
+Error: no such column: socq
+Error: no such column: socr
+Error: no such column: socr
+Error: no such column: stmq
+Error: no such column: stmq
+Error: no such column: stmr
+Error: no such column: stmr
+Error: no such column: schq
+Error: no such column: schq
+Error: no such column: schr
+Error: no such column: schr
+Error: no such column: socq
+Error: no such column: socq
+Error: no such column: socr
+Error: no such column: socr
+Error: no such column: stmq
+Error: no such column: stmq
+Error: no such column: stmr
+Error: no such column: stmr
+Error: no such column: socq
+Error: no such column: socq
+Error: no such column: socr
+Error: no such column: socr
+Error: no such column: stmq
+Error: no such column: stmq
+Error: no such column: stmr
+Error: no such column: stmr
+Argument "" isn't numeric in numeric gt (>) at /root/ralphweb/views/sc/profile.13.tt line 39.
+Argument "" isn't numeric in numeric gt (>) at /root/ralphweb/views/sc/profile.13.tt line 48.
+Argument "" isn't numeric in numeric gt (>) at /root/ralphweb/views/sc/profile.13.tt line 57.
+Argument "" isn't numeric in numeric gt (>) at /root/ralphweb/views/sc/profile.13.tt line 67.

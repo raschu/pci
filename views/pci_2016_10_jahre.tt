@@ -1,0 +1,64 @@
+<div id="page">
+	<% INCLUDE menu.tt %>
+        <div id="inhalt">
+          <h1>Teilnehmerliste PCI 2016 Jubiläumsrauchen</h1>
+              <p>
+
+<form action="/pci_2016_10_jahre" method="post"> 
+<label for="pci2016_1">Teilnehmer 01: <input size="50" id="pci2016_1" name="pci2016_1" value="<% pci2016_1 %>"></label></br>
+<label for="pci2016_2">Teilnehmer 02: <input size="50" id="pci2016_2" name="pci2016_2" value="<% pci2016_2 %>"></label></br>
+<label for="pci2016_3">Teilnehmer 03: <input size="50" id="pci2016_3" name="pci2016_3" value="<% pci2016_3 %>"></label></br>
+<label for="pci2016_4">Teilnehmer 04: <input size="50" id="pci2016_4" name="pci2016_4" value="<% pci2016_4 %>"></label></br>
+<label for="pci2016_5">Teilnehmer 05: <input size="50" id="pci2016_5" name="pci2016_5" value="<% pci2016_5 %>"></label></br>
+<label for="pci2016_6">Teilnehmer 06: <input size="50" id="pci2016_6" name="pci2016_6" value="<% pci2016_6 %>"></label></br>
+<label for="pci2016_7">Teilnehmer 07: <input size="50" id="pci2016_7" name="pci2016_7" value="<% pci2016_7 %>"></label></br>
+<label for="pci2016_8">Teilnehmer 08: <input size="50" id="pci2016_8" name="pci2016_8" value="<% pci2016_8 %>"></label></br>
+<label for="pci2016_9">Teilnehmer 09: <input size="50" id="pci2016_9" name="pci2016_9" value="<% pci2016_9 %>"></label></br>
+<label for="pci2016_10">Teilnehmer 10: <input size="50" id="pci2016_10" name="pci2016_10" value="<% pci2016_10 %>"></label></br>
+<label for="pci2016_11">Teilnehmer 11: <input size="50" id="pci2016_11" name="pci2016_11" value="<% pci2016_11 %>"></label></br>
+<label for="pci2016_12">Teilnehmer 12: <input size="50" id="pci2016_12" name="pci2016_12" value="<% pci2016_12 %>"></label></br>
+<label for="pci2016_13">Teilnehmer 13: <input size="50" id="pci2016_13" name="pci2016_13" value="<% pci2016_13 %>"></label></br>
+<label for="pci2016_14">Teilnehmer 14: <input size="50" id="pci2016_14" name="pci2016_14" value="<% pci2016_14 %>"></label></br>
+<label for="pci2016_15">Teilnehmer 15: <input size="50" id="pci2016_15" name="pci2016_15" value="<% pci2016_15 %>"></label></br>
+<label for="pci2016_16">Teilnehmer 16: <input size="50" id="pci2016_16" name="pci2016_16" value="<% pci2016_16 %>"></label></br>
+<label for="pci2016_17">Teilnehmer 17: <input size="50" id="pci2016_17" name="pci2016_17" value="<% pci2016_17 %>"></label></br>
+<label for="pci2016_18">Teilnehmer 18: <input size="50" id="pci2016_18" name="pci2016_18" value="<% pci2016_18 %>"></label></br>
+<label for="pci2016_19">Teilnehmer 19: <input size="50" id="pci2016_19" name="pci2016_19" value="<% pci2016_19 %>"></label></br>
+<label for="pci2016_20">Teilnehmer 20: <input size="50" id="pci2016_20" name="pci2016_20" value="<% pci2016_20 %>"></label></br>
+<label for="pci2016_21">Teilnehmer 21: <input size="50" id="pci2016_21" name="pci2016_21" value="<% pci2016_21 %>"></label></br>
+<label for="pci2016_22">Teilnehmer 22: <input size="50" id="pci2016_22" name="pci2016_22" value="<% pci2016_22 %>"></label></br>
+<label for="pci2016_23">Teilnehmer 23: <input size="50" id="pci2016_23" name="pci2016_23" value="<% pci2016_23 %>"></label></br>
+<label for="pci2016_24">Teilnehmer 24: <input size="50" id="pci2016_24" name="pci2016_24" value="<% pci2016_24 %>"></label></br>
+<label for="pci2016_25">Teilnehmer 25: <input size="50" id="pci2016_25" name="pci2016_25" value="<% pci2016_25 %>"></label></br>
+<label for="pci2016_26">Teilnehmer 26: <input size="50" id="pci2016_26" name="pci2016_26" value="<% pci2016_26 %>"></label></br>
+<label for="pci2016_27">Teilnehmer 27: <input size="50" id="pci2016_27" name="pci2016_27" value="<% pci2016_27 %>"></label></br>
+<label for="pci2016_28">Teilnehmer 28: <input size="50" id="pci2016_28" name="pci2016_28" value="<% pci2016_28 %>"></label></br>
+<label for="pci2016_29">Teilnehmer 29: <input size="50" id="pci2016_29" name="pci2016_29" value="<% pci2016_29 %>"></label></br>
+<label for="pci2016_30">Teilnehmer 30: <input size="50" id="pci2016_30" name="pci2016_30" value="<% pci2016_30 %>"></label></br>
+<label for="pci2016_31">Teilnehmer 31: <input size="50" id="pci2016_31" name="pci2016_31" value="<% pci2016_31 %>"></label></br>
+<label for="pci2016_32">Teilnehmer 32: <input size="50" id="pci2016_32" name="pci2016_32" value="<% pci2016_32 %>"></label></br>
+<label for="pci2016_33">Teilnehmer 33: <input size="50" id="pci2016_33" name="pci2016_33" value="<% pci2016_33 %>"></label></br>
+<label for="pci2016_34">Teilnehmer 34: <input size="50" id="pci2016_34" name="pci2016_34" value="<% pci2016_34 %>"></label></br>
+<label for="pci2016_35">Teilnehmer 35: <input size="50" id="pci2016_35" name="pci2016_35" value="<% pci2016_35 %>"></label></br>
+<label for="pci2016_36">Teilnehmer 36: <input size="50" id="pci2016_36" name="pci2016_36" value="<% pci2016_36 %>"></label></br>
+<label for="pci2016_37">Teilnehmer 37: <input size="50" id="pci2016_37" name="pci2016_37" value="<% pci2016_37 %>"></label></br>
+<label for="pci2016_38">Teilnehmer 38: <input size="50" id="pci2016_38" name="pci2016_38" value="<% pci2016_38 %>"></label></br>
+<label for="pci2016_39">Teilnehmer 39: <input size="50" id="pci2016_39" name="pci2016_39" value="<% pci2016_39 %>"></label></br>
+<label for="pci2016_40">Teilnehmer 40: <input size="50" id="pci2016_40" name="pci2016_40" value="<% pci2016_40 %>"></label></br>
+<label for="pci2016_41">Teilnehmer 41: <input size="50" id="pci2016_41" name="pci2016_41" value="<% pci2016_41 %>"></label></br>
+<label for="pci2016_42">Teilnehmer 42: <input size="50" id="pci2016_42" name="pci2016_42" value="<% pci2016_42 %>"></label></br>
+<label for="pci2016_43">Teilnehmer 43: <input size="50" id="pci2016_43" name="pci2016_43" value="<% pci2016_43 %>"></label></br>
+<label for="pci2016_44">Teilnehmer 44: <input size="50" id="pci2016_44" name="pci2016_44" value="<% pci2016_44 %>"></label></br>
+<label for="pci2016_45">Teilnehmer 45: <input size="50" id="pci2016_45" name="pci2016_45" value="<% pci2016_45 %>"></label></br>
+
+<input type="submit" value="senden"></br>
+</form>
+
+
+
+				  
+				
+              </p>
+        </div>
+      </div>
+    </div>

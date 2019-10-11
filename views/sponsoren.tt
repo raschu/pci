@@ -1,0 +1,21 @@
+<div id="page">
+	<% INCLUDE menu.tt %>
+        <div id="inhalt">
+          <h1>Sponsoren</h1>
+              <h3>Clubraum Sponsor</h3>
+			<p><div class="imagecaptioneasy imagecaptioneasy_nowrap" style="width:432px;"><img src="/images/getrnkelogo1.jpg" alt="Auf der Maur &amp; Co.  Immobilien, Schwyzerstrasse 69, 6440 Brunnen" /><br style="clear:both" /><span>Auf der Maur &amp; Co., Schwyzerstrasse 69, 6440 Brunnen</span></div></p>
+			
+			<h3>White Dog</h3>
+			<p><div class="imagecaptioneasy imagecaptioneasy_nowrap" style="width:432px;"><img src="/images/whitedog.jpg" alt="White Dog - Exclusive Freehand Pipes" /><br style="clear:both" /><span>White Dog - Exclusive Freehand Pipes</span></div></p>
+			
+			
+			<h3>Tabak Sponsoren</h3>
+			<p><div class="imagecaptioneasy imagecaptioneasy_nowrap" style="width:432px;"><img src="/images/grandmagazinlogo1.jpg" alt="Der Tabak und Souvenirs Kiosk direkt am See." /><br style="clear:both" /><span>Der Tabak und Souvenirs Kiosk direkt am See.</span></div></p>
+			
+			<h3>Buurehof Seeween (SZ)</h3>
+			<p><div class="imagecaptioneasy imagecaptioneasy_nowrap" style="width:432px;"><a href="http://bauernhof-seewen.ch/"><img src="/images/bauernhof_seewen.jpg" alt="Gasthaus zum Bauernhof, Seewernstrasse 36" /></a><br style="clear:both" /><span>Gasthaus zum Bauernhof, Seewernstrasse 36, 6423 Seewen</span></div></p>
+			
+			
+        </div>
+      </div>
+    </div>

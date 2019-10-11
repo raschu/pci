@@ -1,0 +1,10 @@
+<div id="page">
+	<% INCLUDE menu.tt %>
+        <div id="inhalt">
+          <h1>Bilder PCI</h1>
+              <p style="margin-left:-39px">
+				<embed type="application/x-shockwave-flash" src="https://photos.gstatic.com/media/slideshow.swf" width="540" height="360" flashvars="host=picasaweb.google.com&captions=1&hl=de&feat=flashalbum&RGB=0x000000&feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F107519147262010297720%2Falbumid%2F5751920295183368481%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCOfEy4T4ybO4QQ%26hl%3Dde" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>
+              </p>
+        </div>
+      </div>
+    </div>

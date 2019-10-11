@@ -1,0 +1,61 @@
+<div id="page">
+	<% INCLUDE menu.tt %>
+        <div id="inhalt">
+          <h1>Email Adressen PCI</h1>
+              <p>
+				<script type="text/javascript" language="javascript">
+<!--
+// Email obfuscator script 2.1 by Tim Williams, University of Arizona
+// Random encryption key feature coded by Andrew Moulden
+// This code is freeware provided these four comment lines remain intact
+// A wizard to generate this code is at http://www.jottings.com/obfuscator/
+{ coded = "N8y5Q.5hS8NQk5hQ@x2hNPLD.7X"
+  key = "WUQCRJIEDGPeVAqK8H9lYh7mx1agoFziOf6BprNvt0Znjw2sX3kd45yTucLbSM"
+  shift=coded.length
+  link=""
+  for (i=0; i<coded.length; i++) {
+    if (key.indexOf(coded.charAt(i))==-1) {
+      ltr = coded.charAt(i)
+      link += (ltr)
+    }
+    else {     
+      ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
+      link += (key.charAt(ltr))
+    }
+  }
+document.write("<a href='mailto:"+link+"'>Email Präsident PCI</a>")
+}
+//-->
+</script><noscript>Sorry, you need Javascript on to email me.</noscript>
+				<br/>
+				
+				<script type="text/javascript" language="javascript">
+<!--
+// Email obfuscator script 2.1 by Tim Williams, University of Arizona
+// Random encryption key feature coded by Andrew Moulden
+// This code is freeware provided these four comment lines remain intact
+// A wizard to generate this code is at http://www.jottings.com/obfuscator/
+{ coded = "KX5FJ.V9J35aK@clXR5.9Hl"
+  key = "y9GqBCtpoWai8lEDsg3JdAPUzbYrQNFHLXRk5O2Vcn0MI47v6eKjmZxSTuh1wf"
+  shift=coded.length
+  link=""
+  for (i=0; i<coded.length; i++) {
+    if (key.indexOf(coded.charAt(i))==-1) {
+      ltr = coded.charAt(i)
+      link += (ltr)
+    }
+    else {     
+      ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
+      link += (key.charAt(ltr))
+    }
+  }
+document.write("<a href='mailto:"+link+"'>Email Webmaster PCI</a>")
+}
+//-->
+</script><noscript>Sorry, you need Javascript on to email me.</noscript>
+
+				
+              </p>
+        </div>
+      </div>
+    </div>

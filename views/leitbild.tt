@@ -1,0 +1,34 @@
+<div id="page">
+	<% INCLUDE menu.tt %>
+        <div id="inhalt">
+          <h1>Unser Leitbild</h1>
+
+		<h2>Der Club hat den Sinn und Zweck</h2>
+		<ul>
+		<li>Das gemeinsame "Geniessen" des Pfeifenrauchens.</li>
+		<li>Die Förderung des geselligen Zusammenseins.</li>
+		<li>Bildung im Bereich des Pfeifenrauchens und die Welt des "Geniessens" (Tabak, Zigarren, Weine &amp; Spirituosen) durch Vorträge und Präsentationen des Vorstands.</li>
+		<li>Das Ansehen der Pfeife und des Pfeifenrauchens zu fördern.</li>
+		<li>Unterstützung der lokalen Gastronomie durch unsere Rauchabende.</li>
+		<li>Unterstützung der Tabakindustrie und deren Abnehmer (Detailhandel) zur Erhaltung von Arbeitsplätzen.</li>
+		</ul>
+		<h2>Tätigkeiten des PCI</h2>
+		<ul>
+		<li>Diverse Smoke Nights unter dem Jahr verteilt an einem Samstag-, oder Sonntagabend (Gastronomie oder Clubraum). An den Smoke Nights werden teilweise Präsentationen und Vorträge rund um die Welt des Pfeifenrauchens und des Geniessens abgehalten. An jedem Treffen wird eine Dose Tabak zum Testen gratis zur Verfügung gestellt.</li>
+		<li>Teilnahme an Wettrauchen.</li>
+		<li>Ausflüge, Besichtigungen von Firmen (z.B. Pfeifenfabrik im Pfeifenmekka St. Claude, Frankreich)</li>
+		<li>Unterstützung von Kultur und Brauchtum aus unserer Region (Sponsoring)</li>
+		</ul>
+		<h2>Tätigkeiten des Vorstands</h2>
+		<ul>
+		<li>Unentgeltliche Präsentationen des Pfeiferauchens bei interessierten Firmen, Vereinen, Clubs und Privatanlässen in der Region.</li>
+		<li>Kontaktpflege mit anderen Pfeifenclubs.</li>
+		</ul>
+		<h2>Statuten des PC Innerschwyz</h2>
+		<p><a href="/pdf/statuten.pdf" title="statuten.pdf">Statuten (PDF)</a></p>	
+
+				
+              
+        </div>
+      </div>
+    </div>

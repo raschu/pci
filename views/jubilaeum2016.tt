@@ -1,0 +1,120 @@
+<div id="page">
+	<% INCLUDE menu.tt %>
+        <div id="inhalt">
+			  
+           <h1><font size="2" color="#afafaf">22.08.2016</font><br>Jubiläumsrauchen vom 20. August 2016</h1>
+               <p>
+ 				<!--Zur Zeit sind noch <b><% cnt2016 %></b> Plätze frei von insgesamt 45.-->
+					Am 20. August 2016 durften wir zusammen mit unseren Kollegen diverser Pfeifenclubs ein schönes Jubiläumsfest feiern, unser Club wurde 10 Jahre alt.
+					<br><br>28 Teilnehmer rauchten an unserem Wettrauchen mit, Sieger wurde Arthur Jäggin vom PC Aarau. Er durften sowohl die bestplatzierte Frau als auch der Letztplatzierte ein sehr schöne, handgemachte Pfeife gefertigt von Richard Baggenstos entgegennehmen.
+					<br><br>Anschliessend gab es noch ein reichhaltiges Abendessen vom BBQ Smoker und Holzkohlegrill.
+					Der Pfeifenclub Innerschwyz bedankt sich bei den Teilnehmern, den Sponsoren und unseren Helfern herzlich für diesen gelungenen Anlass.
+			   
+			   <!--<% tbl2016 %>-->
+			   
+			   <h2><a href="/pdf/rangliste_pci_10_jahr_jubilaeum.pdf">Rangliste Jubiläumsrauchen 10 Jahre PCI - 20. August 2016 (PDF)</a></h2>
+			   
+			   <!--
+				   <form action="/pci2016_anmeldung" method="post">
+				   <table>
+				    
+				   <tr><td><label for="pci2016_1">Name:
+				   </td><td><input size="50" id="pci2016_name" name="pci2016_name"></label></td></tr>
+				   
+				   <tr><td><label for="pci2016_2">Vorname:
+				   </td><td><input size="50" id="pci2016_vorname" name="pci2016_vorname"></label></td></tr>
+				   <tr><td><label for="pci2016_2">Club:
+				   </td><td><input size="50" id="pci2016_club" name="pci2016_club"></label></td></tr>
+				   <tr><td><label for="pci2016_2">Email-Adresse:
+				   </td><td><input size="50" id="pci2016_email" name="pci2016_email"></label></td></tr>
+
+
+				   <tr><td><input type="submit" value="senden"></td><td></td><td>&nbsp;</td></tr>
+				   
+					</table>
+				</form>
+				   -->
+				   
+				   <br><br>
+
+				 <div class="slideshow-container">
+				  <div class="mySlides fade">
+				    <div class="numbertext">1 / 5</div>
+				    <a href=/pci_10_jahre_slide/index.html><img src="/images/pci_10_jahres_jubilaeum/P1020451.jpg" style="width:100%"></a>
+				    <div class="text">Festzelt von aussen</div>
+				  </div>
+
+				  <div class="mySlides fade">
+				    <div class="numbertext">2 / 5</div>
+				    <a href=/pci_10_jahre_slide/index.html><img src="/images/pci_10_jahres_jubilaeum/P1020454.jpg" style="width:100%"></a>
+				    <div class="text">Das Siegertrio (v.l.n.r.): <br>Rolf Maag (3. Rang), Arthur Jäggin (1. Rang), Peter Egloff (2. Rang)</div>
+				  </div>
+
+				  <div class="mySlides fade">
+				    <div class="numbertext">3 / 5</div>
+				    <a href=/pci_10_jahre_slide/index.html><img src="/images/pci_10_jahres_jubilaeum/P1020452.jpg" style="width:100%"></a>
+				    <div class="text"></div>
+				  </div>
+				  
+				  <div class="mySlides fade">
+				    <div class="numbertext">4 / 5</div>
+				    <a href=/pci_10_jahre_slide/index.html><img src="/images/pci_10_jahres_jubilaeum/P1020450.jpg" style="width:100%"></a>
+				    <div class="text"></div>
+				  </div>
+				  
+				  <div class="mySlides fade">
+				    <div class="numbertext">5 / 5</div>
+				    <a href=/pci_10_jahre_slide/index.html><img src="/images/pci_10_jahres_jubilaeum/P1020448.jpg" style="width:100%"></a>
+				    <div class="text">Gabentempel</div>
+				  </div>
+
+				  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+				  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+				</div>
+				<br>
+
+				<div style="text-align:center">
+				  <span class="dot" onclick="currentSlide(1)"></span>
+				  <span class="dot" onclick="currentSlide(2)"></span>
+				  <span class="dot" onclick="currentSlide(3)"></span>
+				  <span class="dot" onclick="currentSlide(4)"></span>
+				  <span class="dot" onclick="currentSlide(5)"></span>
+				</div>
+				   
+				   
+				   
+				   <script>
+				   var slideIndex = 1;
+				   showSlides(slideIndex);
+
+				   function plusSlides(n) {
+				     showSlides(slideIndex += n);
+				   }
+
+				   function currentSlide(n) {
+				     showSlides(slideIndex = n);
+				   }
+
+				   function showSlides(n) {
+				     var i;
+				     var slides = document.getElementsByClassName("mySlides");
+				     var dots = document.getElementsByClassName("dot");
+				     if (n > slides.length) {slideIndex = 1}    
+				     if (n < 1) {slideIndex = slides.length}
+				     for (i = 0; i < slides.length; i++) {
+				         slides[i].style.display = "none";  
+				     }
+				     for (i = 0; i < dots.length; i++) {
+				         dots[i].className = dots[i].className.replace(" active", "");
+				     }
+				     slides[slideIndex-1].style.display = "block";  
+				     dots[slideIndex-1].className += " active";
+				   }
+				   </script>
+				   
+				   
+				   
+               </p>	  
+        </div>
+      </div>
+    </div>

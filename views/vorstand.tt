@@ -1,0 +1,25 @@
+<div id="page">
+	<% INCLUDE menu.tt %>
+        <div id="inhalt">
+          <h1>Vorstand</h1>
+
+		<h2>Der Vorstand des PCI</h2>
+		<ul>
+		<li>Edgar Auf der Maur (Präsident)</li>
+		<li>Richard Baggenstos (Vize-Präsident)</li>
+		<li>Roman Schelbert (Clubmanager)</li>
+		<li>René Zeberg (Koordinator)</li>
+		<li>Ralph Schuler (Kassier)</li>
+		<li>Armin Schelbert (Protokollführer)</li>
+		</ul>
+		<p align="left">&nbsp;</p>
+		<p><div class="imagecaptioneasy imagecaptioneasy_nowrap" style="width:450px;"><img src="/images/vorstand1.jpg" alt="von links: Clubmanager Roman Schelbert, Protokollführer Armin Schelbert, Präsident Edgar Auf der Maur, Vize - Präsident Richard Baggenstos, Kassier René Zeberg (Es fehlt: Koordinator Ralph Schuler)" /><br style="clear:both" /><span>von links: Clubmanager Roman Schelbert, Protokollführer Armin Schelbert, Präsident Edgar Auf der Maur, Vize - Präsident Richard Baggenstos, Koordinaor René Zeberg (Es fehlt: Kassier Ralph Schuler)</span></div></p>
+
+		<p><font size="4"><br />
+		</font></p>
+
+
+
+        </div>
+      </div>
+    </div>

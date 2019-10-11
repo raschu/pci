@@ -1,0 +1,45 @@
+<div id="page">
+	<% INCLUDE menu.tt %>
+        <div id="inhalt">
+          <h1>Gästebuch des PCI</h1>
+					<p>
+						Wir freuen uns über Anregungen, Fragen, Kommentare oder einfach nur einen Gruss.
+						</p>
+
+					<form action="/gbp" method="post">
+					
+				        <input type="hidden" name="random" value="<% random %>" />					
+					
+					Homepage (falls vorhanden):<br/>
+					<input name="h45999" type="text" size="50" maxlength="50"><br/>
+					Name:<br/>
+					<input name="n88999" type="text" size="50" maxlength="50"><br/>					
+					Kommentar:<br/>
+					<textarea name="c73999" cols="50" rows="10"></textarea><br/>
+					
+				        <img src="<% image_url %>" border="0">
+					<br/>
+					Sicherheitscode:<br/>
+					<input name="password" type="text" size="10" maxlength="10"><br/><br/>						
+					
+					<input class="button" type="submit">
+					</form>
+					
+					<% FOR r IN data.keys.sort %>
+					<hr>
+					<p>
+					 
+					  <strong><% data.$r.name %>&nbsp;&nbsp;<a href="<% data.$r.homepage %>"><% data.$r.homepage %></a></strong> 
+					  
+					<br/><span>(<em><% data.$r.updatetime %></em>)</span>
+					  
+					</p>  
+					
+					<p>
+				        <% data.$r.comment %>
+				    </p>
+					<% END %>
+				
+        </div>
+      </div>
+    </div>

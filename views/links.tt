@@ -1,0 +1,48 @@
+<div id="page">
+	<% INCLUDE menu.tt %>
+        <div id="inhalt">
+          <h1>Links</h1>
+			<ul>
+             <li><a href="http://www.pcs-pfeifen-club-schweiz.ch/" target="_blank">Pfeifenclub Schweiz </a></li>
+			<li><a href="http://www.pcsga.ch/" target="_blank">Pfeifenclub St.Gallen-Appenzell</a></li>
+			<li><a href="http://www.pfeifenclub-aarau.ch">Pfeifenclub Aarau </a></li>
+			<li><a href="http://www.pcuster.ch/">Pfeifenclub Uster</a></li>
+			<li><a href="http://www.pfeifenclub.ch/">Pfeifenclub Heiterkeit Basel</a></li>
+			<li><a href="http://www.pfeifenklub.ch/">Pfeifenklub Biel</a></li>
+			<li><a href="https://heavybriarsmoking.wixsite.com/club">Heavy Briar Smoking Club</a></li>
+			</ul>
+			<h1>Pfeifenclubs anderer Länder</h1>
+			<ul>
+			<li><a href="http://cipc.pipeclubs.com/" target="_blank">Comitée Internationale des Pipe Club</a> (Int)</li>
+			<li><a href="http://www.vdp-pfeifenverband.de">Verband Deutscher Pfeifenraucher e.V.</a></li>
+			<li><a href="http://www.vdp-ost.de/">Ostdeutscher Pfeifenraucherverband </a></li>
+			<li><a href="http://www.danpipe-club-wriezen.de/" target="_blank">Dan Pipe Club Wriezen</a> (D)</li>
+			<li><a href="http://www.puba.de/">Pfeifenclub Puba </a>(D)</li>
+			<li><a href="http://www.tabakskollegium-berlin.de/">Tabakskollegium Berlin </a>(D)</li>
+			<li><a href="http://www.pfeifenstammtisch-sommerstorf.de">Tabakskollegium Sommerstorf</a> (D)</li>
+			<li><a href="http://www.danpipe-club-wriezen.de/">Dan Pipe Club Wriezen </a>(D)</li>
+			<li><a href="http://www.1-koelner-pfeifenclub.de">1. Kölner Pfeifenclub</a> (D)</li>
+			<li><a href="http://www.pfeifenclub-jesserndorf.de">Pfeifenclub Jesserndorf</a> (D)</li>
+			</ul>
+			<h1>Seiten rund ums Rauchen</h1>
+			<ul>
+			<li><a href="https://pipedia.org">Pipedia (Pfeifenezyklopädie)</a></li>
+			<li><a href="http://www.tabakshop.ch/">Tabak Shop Winterthur</a></li>
+			</ul>
+			<h1>Pfeifenmacher</h1>
+			<ul>
+			<li><a href="http://www.nilsthomsenpipes.com/">Nils-Thomsen-Pipes</a></li>
+			<li><a href="http://www.piazzolla-pascal.com/">Pascal Piazolla</a> (französisch)</li>
+			<li><a href="http://thesuricatepipe.canalblog.com/">Alain Pungercar </a>(französisch)</li>
+			</ul>
+			<h1>Seiten unserer Mitglieder und Freunde</h1>
+			<ul>
+			<li><a href="http://ralphschuler.ch/">Seite von Ralph</a> (Ski Challange, Kantonsranglisten Initiator)</li>
+			<li><a href="http://www.greifler-ingenbohl-brunnen.ch">Greiflervereinigung Ingenbohl-Brunnen</a> (Tradition und Brauchtum)</li>
+			<li><a href="http://www.baggenstos-fugentechnik.ch/">Baggenstos Fugentechnik</a></li>
+			<li><a href="http://www.laimbachers.ch/">Gebrüder Laimbacher</a> (Schwingsport)</li>
+			<li><a href="http://camino.ch/">Peter Krummenacher, Kaminfegermeister</a> (Wenn&#8217;s mal nicht mehr raucht&#8230;)</li>
+			</ul>
+        </div>
+      </div>
+    </div>

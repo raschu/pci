@@ -1,0 +1,43 @@
+<div id="sidebar">
+  <ul id="sidebar-items">
+    <li>
+      <h3>Hauptmenü</h3>
+      <ul class="links">
+        <li><a href="/geschichte">Geschichte</a></li>
+        <li><a href="/leitbild">Unser Leitbild</a></li>
+        <li><a href="/veranstaltungen">Veranstaltungen</a></li>
+		<li><a href="/vorstand">Vorstand</a></li>
+		<li><a href="/clubraum">Clubraum</a></li>
+		<!--<li><a href="/bilder">Bilder</a></li>
+		<li><a href="/resultate">TODOResultate</a></li>-->
+		<li><a href="/clubwettrauchen">Clubwettrauchen</a></li>
+		<li><a href="/richis-pfeifen">Richi's Pfeifen</a></li>
+		<li><a href="/sponsoren">Sponsoren</a></li>
+		<li><a href="/links">Links</a></li>
+      </ul>
+    </li>
+	
+    <li>
+      <h3>Archiv</h3>
+      <ul class="links">
+	    <li><a href="/archiv2018">Jahr 2018</a></li>
+        <li><a href="/jubilaeum2016">Jubiläumsrauchen 2016</a></li>
+      </ul>
+    </li>
+	
+    <li>
+      <h3>Kontakt</h3>
+      <ul class="links">
+        <li><a href="/email">Email</a></li>
+        <li><a href="/guestbook">Gästebuch</a></li>
+		<li><a href="https://www.facebook.com/groups/57099646963/">Facebook</a></li>
+		<li><a href="https://www.instagram.com/pcinnerschwyz/">Instagram</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<div id="content">
+  <div id="header">
+    <a href="/" style="text-decoration:none"><h1>Pfeifenclub</h1></a>
+    <a href="/" style="text-decoration:none"><h2>Innerschwyz</h2></a>
+  </div>

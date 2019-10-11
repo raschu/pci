@@ -1,0 +1,12 @@
+<div id="page">
+	<% INCLUDE menu.tt %>
+        <div id="inhalt">
+          <h1>Veranstaltungen</h1>
+   				<p>
+				<ul>	
+					<li><a href="/pdf/Jahresprogramm2019.pdf" title="Jahresprogramm 2019">Jahresprogramm 2019 als PDF</a></li>
+				</ul>
+				</p>	
+           
+      </div>
+    </div>
