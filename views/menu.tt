@@ -3,6 +3,7 @@
     <li>
       <h3>Hauptmenü</h3>
       <ul class="links">
+	    <li><a href="/">Home</a></li>
         <li><a href="/geschichte">Geschichte</a></li>
         <li><a href="/leitbild">Unser Leitbild</a></li>
         <li><a href="/veranstaltungen">Veranstaltungen</a></li>
