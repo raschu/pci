@@ -4,8 +4,8 @@
 <head>
 <meta http-equiv="Content-type" content="text/html; charset=<% settings.charset %>" />
 <title>PCI - Pfeifenclub Innerschwyz</title>
-<link rel="stylesheet" href="<% request.uri_base %>/css/style.css" />
-<link rel="stylesheet" href="<% request.uri_base %>/css/slideshow.css" />
+<link rel="stylesheet" href="<% uri_base %>/css/style.css" />
+<link rel="stylesheet" href="<% uri_base %>/css/slideshow.css" />
 
 	<!--<link href="http://isaf2020.ch/layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">-->
 	
@@ -24,7 +24,7 @@
 </style>
 	
 	
-	<link href="<% request.uri_base %>/css/lightbox.min.css" rel="stylesheet">
+	<link href="<% uri_base %>/css/lightbox.min.css" rel="stylesheet">
 	
 
 <script type="text/javascript">

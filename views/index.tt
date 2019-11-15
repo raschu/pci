@@ -1,7 +1,7 @@
 <div id="page">
 	<% INCLUDE menu.tt %>
 	
-	  <script src="http://isaf2020.ch/dist/js/lightbox-plus-jquery.min.js"></script>
+	  <script src="/js/lightbox-plus-jquery.min.js"></script>
       <script>
 		lightbox.option({
 		  'alwaysShowNavOnTouchDevices': true,
