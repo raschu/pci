@@ -9,8 +9,8 @@
 // Random encryption key feature coded by Andrew Moulden
 // This code is freeware provided these four comment lines remain intact
 // A wizard to generate this code is at http://www.jottings.com/obfuscator/
-{ coded = "N8y5Q.5hS8NQk5hQ@x2hNPLD.7X"
-  key = "WUQCRJIEDGPeVAqK8H9lYh7mx1agoFziOf6BprNvt0Znjw2sX3kd45yTucLbSM"
+{ coded = "JC4el.eKSCJl2eKl@Y5-EWWJl05HkRj.5H"
+  key = "9qgFGtbjceiLrXQUpK8nR7wCxZ2sIHPSV3Nz4a6vOT5JEulAyBYdoWmMkh1fD0"
   shift=coded.length
   link=""
   for (i=0; i<coded.length; i++) {
@@ -27,6 +27,7 @@ document.write("<a href='mailto:"+link+"'>Email Präsident PCI</a>")
 }
 //-->
 </script><noscript>Sorry, you need Javascript on to email me.</noscript>
+
 				<br/>
 				
 				<script type="text/javascript" language="javascript">
@@ -35,8 +36,8 @@ document.write("<a href='mailto:"+link+"'>Email Präsident PCI</a>")
 // Random encryption key feature coded by Andrew Moulden
 // This code is freeware provided these four comment lines remain intact
 // A wizard to generate this code is at http://www.jottings.com/obfuscator/
-{ coded = "KX5FJ.V9J35aK@clXR5.9Hl"
-  key = "y9GqBCtpoWai8lEDsg3JdAPUzbYrQNFHLXRk5O2Vcn0MI47v6eKjmZxSTuh1wf"
+{ coded = "qgdID.UBDVd9q@IB-bQQ9qUBDFj1.BD"
+  key = "2PdaLShe5ifv4qMCZwWJxUXpTY1unyBk0lgR6D9Hb8EKr3omFONAs7ItGzVQjc"
   shift=coded.length
   link=""
   for (i=0; i<coded.length; i++) {
@@ -53,6 +54,7 @@ document.write("<a href='mailto:"+link+"'>Email Webmaster PCI</a>")
 }
 //-->
 </script><noscript>Sorry, you need Javascript on to email me.</noscript>
+
 
 				
               </p>
